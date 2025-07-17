@@ -10,5 +10,3 @@ This paper explores the **impact of climatic parameters** on agricultural produc
 **Authors**:  
 - Chitty Venkata Abhiram  
 - Laxmi Manasa Gorugantu
-
-📄 [Download Abstract (PDF)](abstract.pdf)
